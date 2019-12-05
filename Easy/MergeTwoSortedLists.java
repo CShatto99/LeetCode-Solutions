@@ -11,7 +11,7 @@
 class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         
-        // declare a newlist to be modified
+        // declare a new list to be modified
         ListNode newList = new ListNode(0);
         // delare a copy of the new list to be returned
         ListNode merged = newList;
